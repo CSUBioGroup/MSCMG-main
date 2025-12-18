@@ -1,4 +1,4 @@
-# Multi-Stage Conditional Molecular Generation with GPT:Integrating Active Fine-Tuning and Reinforcement Learning for Drug Discovery
+# Multi-Stage Conditional Molecular Generation with Active Fine-Tuning and Reinforcement Learning for Targeted Drug Discovery
 
 ---
 This repository contains the implementation of the Conditional 
