@@ -55,7 +55,7 @@ MSCMG is a framework for generating molecules with specific desired properties u
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/CSUBioGroup/MCMG-main.git
+git clone https://github.com/CSUBioGroup/MSCMG-main.git
 cd MCMG-main
 ```
 
