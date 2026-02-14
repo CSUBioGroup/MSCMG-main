@@ -5,9 +5,9 @@ from torch.utils.data.dataloader import DataLoader
 
 from typing import Optional
 
-from MCMG.Dataset import SMILESDataset
-from MCMG.Configuration import Config, ModelConfig
-from MCMG.Model import GPT
+from MSCMG.Dataset import SMILESDataset
+from MSCMG.Configuration import Config, ModelConfig
+from MSCMG.Model import GPT
 
 import wandb
 from tqdm import tqdm

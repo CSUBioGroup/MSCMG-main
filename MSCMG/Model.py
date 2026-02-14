@@ -6,7 +6,7 @@ from Sophia.sophia import SophiaG
 
 from typing import Tuple, Optional
 
-from MCMG.Configuration import ModelConfig
+from MSCMG.Configuration import ModelConfig
 
 
 class SelfAttention(nn.Module):

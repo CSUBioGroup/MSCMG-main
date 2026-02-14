@@ -1,6 +1,6 @@
-from MCMG import Configuration as Configuration
-from MCMG import Dataset as Dataset
-from MCMG import Training
+from MSCMG import Configuration as Configuration
+from MSCMG import Dataset as Dataset
+from MSCMG import Training
 
 import os
 

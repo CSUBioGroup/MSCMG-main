@@ -56,7 +56,7 @@ MSCMG is a framework for generating molecules with specific desired properties u
 Clone the repository:
 ```bash
 git clone https://github.com/CSUBioGroup/MSCMG-main.git
-cd MCMG-main
+cd MSCMG-main
 ```
 
 Note: You will need to have RDKit installed. For installation instructions, please refer to the [RDKit documentation](https://www.rdkit.org/docs/Install.html).

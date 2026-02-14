@@ -1,10 +1,10 @@
-from MCMG import Dataset as Dataset
-from MCMG import Training
+from MSCMG import Dataset as Dataset
+from MSCMG import Training
 
 from rdkit import Chem
 from rdkit.Chem import Descriptors
-from MCMG import Configuration as Configuration
-from MCMG import Generation as Generation
+from MSCMG import Configuration as Configuration
+from MSCMG import Generation as Generation
 from Utils import filter_smiles_by_properties,expand_smiles_to_5000,get_SA,get_QED
 
 import os

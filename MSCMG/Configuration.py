@@ -2,7 +2,7 @@ import torch
 from torch.nn import Module
 import os
 from typing import Union, Dict, Any, List, Tuple, Optional, Any, Set, Callable, cast
-from MCMG.InitializeWorkspace import FOLDER_STRUCTURE as fldr_struc
+from MSCMG.InitializeWorkspace import FOLDER_STRUCTURE as fldr_struc
 import textwrap
 from rdkit.Chem import Descriptors
 from rdkit import Chem

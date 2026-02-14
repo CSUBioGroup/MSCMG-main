@@ -8,9 +8,9 @@ import rdkit
 from rdkit import Chem, RDLogger
 from rdkit.Chem import Fragments
 
-from MCMG.Model import GPT
-from MCMG.Configuration import Config, AdmetDict
-from MCMG.Dataset import SMILESDataset
+from MSCMG.Model import GPT
+from MSCMG.Configuration import Config, AdmetDict
+from MSCMG.Dataset import SMILESDataset
 
 from typing import Set, List, Callable, Union, Optional, Any, Dict
 RDLogger.DisableLog("rdApp.*")

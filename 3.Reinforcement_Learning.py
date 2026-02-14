@@ -3,12 +3,12 @@ import re
 import torch
 from torch.optim import Adam
 from tqdm import tqdm
-from MCMG.Model import GPT
-from MCMG import Configuration as Configuration
-from MCMG.Dataset import SMILESDataset
+from MSCMG.Model import GPT
+from MSCMG import Configuration as Configuration
+from MSCMG.Dataset import SMILESDataset
 from rdkit import Chem
 
-from MCMG.Generation import get_mol,sample
+from MSCMG.Generation import get_mol,sample
 from unidock_score import run_docking
 from Inception import Inception
 from torch.nn.utils.rnn import pad_sequence
